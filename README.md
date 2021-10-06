@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
   ##
   
   <div> 
-  <a href=https://api.whatsapp.com/send?phone=5511992927949 target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+  <a href=https://api.whatsapp.com/send?phone=5511992927949 target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   <a href=https://www.linkedin.com/in/rafael-rodrigues-de-lacerda-5a7b571a0/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rafael.lacerda1530@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  
