@@ -1,8 +1,11 @@
-##             Seja bem-vindo e Fique a vontade para explorar 😉
-- 🔭 I am currently working at Totvs SA as an RPA developer
-- 🌱 I’m currently learning software engineering at 42 São Paulo
-- 📫 How to reach me: Lacerda.rafael1530@gmail.com (011-992927949),
 
+  ## SEJA BEM-VINDO E FIQUE A VONTADE PARA EXPLORAR 😉<br>
+<div>
+- 🔭 I am currently working at Totvs as an RPA developer<br>
+- 🌱 I’m currently learning software engineering at 42 São Paulo<br>
+- 📫 How to reach me: Lacerda.rafael1530@gmail.com<br>
+</div>
+<br>
 <div>
   <a href="https://github.com/rafalacerda1530">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafalacerda1530&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
   
   ##
   
-  <div> 
+ <div>
   <a href=https://api.whatsapp.com/send?phone=5511992927949 target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   <a href=https://www.linkedin.com/in/rafael-rodrigues-de-lacerda-5a7b571a0/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rafael.lacerda1530@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
