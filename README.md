@@ -24,6 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
   <a href=https://www.linkedin.com/in/rafael-rodrigues-de-lacerda-5a7b571a0/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rafael.lacerda1530@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafalacerda1530/rafalacerda1530/blob/output/github-contribution-grid-snake.svg)
  
 </div>
