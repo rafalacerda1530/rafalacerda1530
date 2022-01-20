@@ -1,7 +1,7 @@
 
   ## SEJA BEM-VINDO E FIQUE A VONTADE PARA EXPLORAR 😉<br>
 <div>
-- 🔭 I am currently working at Totvs as an RPA developer<br>
+- 🔭 I am currently working at Indra as an RPA developer<br>
 - 🌱 I’m currently learning software engineering at 42 São Paulo<br>
 - 📫 How to reach me: Lacerda.rafael1530@gmail.com<br>
 </div>
