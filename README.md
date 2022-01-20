@@ -1,5 +1,5 @@
 
-  ## SEJA BEM-VINDO E FIQUE A VONTADE PARA EXPLORAR 😉<br>
+  ## WELCOME AND FEEL FREE TO EXPLORE 😉<br>
 <div>
 - 🔭 I am currently working at Indra as an RPA developer<br>
 - 🌱 I’m currently learning software engineering at 42 São Paulo<br>
