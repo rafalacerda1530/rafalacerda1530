@@ -1,8 +1,8 @@
 
   ## WELCOME AND FEEL FREE TO EXPLORE 😉<br>
 <div>
-- 🔭 I am currently working at Indra as an RPA developer<br>
-- 🌱 I’m currently learning software engineering at 42 São Paulo<br>
+- 🔭 I am currently working at T2c Group as an RPA developer<br>
+- 🌱 I’m currently learning Java and SpringBoot<br>
 - 📫 How to reach me: Lacerda.rafael1530@gmail.com<br>
 </div>
 <br>
